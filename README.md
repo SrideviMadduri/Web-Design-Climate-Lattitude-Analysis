@@ -5,7 +5,7 @@
 Data becomes more powerful when you share it with others! That’s because people can use your data only if they can access it. So, you’ll use HTML and CSS to create a dashboard featuring the Latitude vs. X analysis of weather.
 
 ### Website
-Here is a link to the website: https://sridevimadduri.github.io/web_Design_Challange/
+Here is a link to the website: https://sridevimadduri.github.io/Web-Design-Climate-Lattitude-Analysis/
 
 ### Instructions
 Create a website by using either the visualizations that you created for your Python-APIs Challenge or the weather data and images that are provided for this Challenge. To do so, use the considerations and website requirements that the following subsections describe.
